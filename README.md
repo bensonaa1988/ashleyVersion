@@ -1,6 +1,5 @@
 # ashleyVersion
 
-This was a fun and new challenge for me!!  In the original C# file, I was able to set up .NET, get up to speed on basic commands, clear the build and run errors.
-But ran into a wall trying to manipulate data in a language I have not seen before.  So I went with what I know and gave it a go in python!!  Although I have never 
+This was a fun and new challenge for me!!  In the original C# file, I was able to set up .NET, get up to speed on basic commands, and clear the build and run errors. But ran into a wall trying to manipulate data in a language I have not worked with. Spent the bulk of time fighting with C# and researching vidoes.  I ended up using VS code's data mining functionality.  Eventually I went with what I know and gave it a go in python (there were a lot more video resources online for python, surpringly)!!  The VS code SQL platform is not as robust as I would have hoped.  For example, could not create any tables just select and filter data. Did not have a ton of time left to allocate to css.  Given more time, I'm condident I would have found a better solution!
 
-and decided to start a new 
+Overall, I'm proud of what I was able to come up with and excited to think what I could have come up with given an applicable codebase as reference or a little guidance or documentation.  I'm SUPER excited for the experience and the oppurtunity.  I truly appreciate your time and look forward to building cool things and learning with the team!!!!
